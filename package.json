@@ -1,0 +1,23 @@
+{
+  "name": "resturantpage",
+  "version": "1.0.0",
+  "description": "A demo homepage for a resturant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenFin75/ResturantPage.git"
+  },
+  "author": "Ben Finley (github.com/BenFin75)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenFin75/ResturantPage/issues"
+  },
+  "homepage": "https://github.com/BenFin75/ResturantPage#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
