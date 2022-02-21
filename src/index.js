@@ -198,7 +198,7 @@ const about = (() => {
 const footer = (() => {
     const footer = document.createElement('footer')
     const github = document.createElement('a')
-    github.href = "githubhttps://.com/BenFin75";
+    github.href = "https://github.com/BenFin75";
     github.target = "_blank";
     github.textContent = 'Ben Finley';
     const footerText = document.createElement('p');
